@@ -76,7 +76,7 @@ ul li a{
 .fondo-portada{
     height: 700px;
     width: 100%;
-    background-image: url(./img/fondo.jpeg);
+    background-image: url(../img/fondo.jpeg);
 }
 
 .contenedor-portada{
